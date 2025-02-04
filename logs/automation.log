@@ -1,0 +1,11 @@
+13:26:18.772 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+13:27:25.952 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Kattamanchi.Hareesh\Desktop\opencart-master\opencart-master\mastersuite.xml"
+13:27:30.807 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started......
+13:27:30.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+13:27:31.455 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:27:32.016 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+13:27:32.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+13:27:33.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue..
+13:27:33.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+13:27:33.770 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs end.......
+13:27:33.771 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
