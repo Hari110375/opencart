@@ -73,9 +73,15 @@ public class BaseClass {
 			//browser
 			switch(br.toLowerCase())
 			{
-			case "chrome" : capabilities.setBrowserName("chrome"); break;
-			case "edge" : capabilities.setBrowserName("MicrosoftEdge"); break;
-			default: System.out.println("No matching browser.."); return;
+			case "chrome" :
+				capabilities.setBrowserName("chrome");
+				break;
+			case "edge" : 
+				capabilities.setBrowserName("MicrosoftEdge");
+				break;
+			default: 
+				System.out.println("No matching browser..");
+			return;
 			}
 			
 			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
